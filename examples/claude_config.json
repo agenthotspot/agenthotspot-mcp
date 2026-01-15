@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "agenthotspot": {
+      "command": "python3",
+      "args": ["-m", "agenthotspot_mcp"],
+      "env": {}
+    }
+  }
+}
