@@ -189,3 +189,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
     <img src="https://img.shields.io/badge/Discover_MCP_Connectors-AgentHotspot-blue?style=for-the-badge" alt="Discover Connectors">
   </a>
 </p>
+
+<!-- mcp-name: io.github.AgentHotspot/agenthotspot-mcp -->
