@@ -190,4 +190,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
   </a>
 </p>
 
-<!-- mcp-name: io.github.AgentHotspot/agenthotspot-mcp -->
+<!-- mcp-name: io.github.agenthotspot/agenthotspot-mcp -->
