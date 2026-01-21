@@ -157,3 +157,8 @@ Thumbs.db
 *.log
 .env.local
 .env.*.local
+
+# MCP registry auth tokens
+.mcpregistry_registry_token
+.mcpregistry_github_token
+server.json
